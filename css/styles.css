@@ -1,0 +1,18 @@
+.logo {
+  color: aqua;
+  text-decoration: none;
+}
+.logo:visited {
+  color: burlywood;
+}
+.logo:active {
+  color: crimson;
+}
+.logo:hover {
+  background-color: rgb(233, 27, 20);
+  color: aliceblue;
+}
+
+.feature-list .link {
+  color: #18a0fb;
+}
